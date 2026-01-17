@@ -4,12 +4,12 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site. This is a trial to see if the website automatically updates with rendering!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "3610 Website Project",
+    "title": "3610 Website Project - Emma Neville",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
