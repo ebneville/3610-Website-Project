@@ -1,5 +1,5 @@
 ---
-title: "3610 Website Project"
+title: "3610 Website Project - Emma Neville"
 ---
 
 This is a Quarto website.
