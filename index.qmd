@@ -3,6 +3,6 @@ title: "3610 Website Project - Emma Neville"
 ---
 **Data Visualization #1**
 \
-*2022 NBA Schedule Visualization, By Division (Made 2/1/2026)*
+*2022 NBA Schedule Visualization, By Division (Made 2/2/2026)*
 
 ![](NBA_Schedule_by_Division.jpg)
